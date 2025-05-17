@@ -1,5 +1,3 @@
-# Emmanuel-Bible-Quiz
-Online Bible Quiz
 <!DOCTYPE html>
 <html lang="en">
 <head>
